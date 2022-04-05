@@ -1,0 +1,5 @@
+Important files location :
+
+1) Makefile location := /lib/modules/$(shell uname -r)/build
+2)  
+ 

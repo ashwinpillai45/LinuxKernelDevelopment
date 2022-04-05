@@ -1,0 +1,1 @@
+cmd_/home/ashwin/Documents/linux_kernel/1/helloworld.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/ashwin/Documents/linux_kernel/1/helloworld.ko /home/ashwin/Documents/linux_kernel/1/helloworld.o /home/ashwin/Documents/linux_kernel/1/helloworld.mod.o;  true
