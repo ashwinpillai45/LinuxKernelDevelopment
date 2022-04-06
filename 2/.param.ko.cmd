@@ -1,0 +1,1 @@
+cmd_/home/ashwin/Documents/linux_kernel/2/param.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/ashwin/Documents/linux_kernel/2/param.ko /home/ashwin/Documents/linux_kernel/2/param.o /home/ashwin/Documents/linux_kernel/2/param.mod.o;  true
