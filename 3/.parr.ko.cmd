@@ -1,0 +1,1 @@
+cmd_/home/ashwin/Documents/linux_kernel/3/parr.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/ashwin/Documents/linux_kernel/3/parr.ko /home/ashwin/Documents/linux_kernel/3/parr.o /home/ashwin/Documents/linux_kernel/3/parr.mod.o;  true
